@@ -6,7 +6,7 @@ The study is based on a nationally representative dataset (2013–2015) and was 
 
 ## Report
 
-[📘 View Final Report (PDF)](./Final%20Report_Mother_Health_Child_Stunting.pdf)
+[View Final Report (PDF)](./Final%20Report_Mother_Health_Child_Stunting.pdf)
 
 ## Key Themes
 
@@ -18,7 +18,7 @@ The study is based on a nationally representative dataset (2013–2015) and was 
 
 -  Columbia University, School of International and Public Affairs | Quant II Final Project
 -  Tool: Stata
--  Data: Based on Johns Hopkins University dataset: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1/EM61IB
+-  Data: Based on Johns Hopkins University dataset > https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1/EM61IB
 
 ## License
 
